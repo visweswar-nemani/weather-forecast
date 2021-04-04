@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+.bck_img{
+  
+  background: url(../src/assets/weatherForecast_bck.jpg);
+  width: 100%;
+  min-height: 100vh;
+  display:flex;
+  background-repeat: no-repeat;
+
+  background-position: center;
+  height: 100%;
+  background-size: cover;
+
+}
+.content{
+  padding-top: 5em;
+  
+}
+
+

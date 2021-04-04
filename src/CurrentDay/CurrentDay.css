@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px) {
+    .card{
+      font-size: 0.75m;
+    }
+    .text-muted{
+        font-size: 1em;
+    }
+
+
+}
